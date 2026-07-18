@@ -6,14 +6,6 @@
   </picture>
 </div>
 
-<p align="center">
-  <a href="https://vandangohil.com"><b>Portfolio</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/vandangohil"><b>LinkedIn</b></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:onedone.product@gmail.com"><b>Email</b></a>
-</p>
-
 <br/>
 
 ## whoami
