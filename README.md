@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img alt="Vandan Gohil, Design Engineer" src="./assets/banner-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark-v2.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light-v2.svg">
+    <img alt="Vandan Gohil, Design Engineer" src="./assets/banner-dark-v2.svg" width="100%">
   </picture>
 </div>
 
@@ -28,9 +28,9 @@ They call me **One-Done**: get it right, then get it out.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/metrics-light.svg">
-    <img alt="70% faster design-to-code, 11+ surfaces shipped solo, 250+ brands onboarded, 100K+ creators reached" src="./assets/metrics-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics-dark-v2.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/metrics-light-v2.svg">
+    <img alt="70% faster design-to-code, 11+ surfaces shipped solo, 250+ brands onboarded, 100K+ creators reached" src="./assets/metrics-dark-v2.svg" width="100%">
   </picture>
 </div>
 
@@ -48,10 +48,10 @@ I do my best work in **0 to 1**, ambiguous, high-ownership rooms where the patte
 
 | project | what it was | the dent it made |
 |---|---|---|
-| [**Sapling CRM**](https://vandangohil.com/sapling-crm) `2026` | AI-native nonprofit CRM, designed and built end to end | 11+ surfaces shipped solo, design-to-code time down 70% |
-| [**HypdVision**](https://vandangohil.com/hypdvision) `2022 → 2024` | B2B influencer-marketing platform, founding designer, 0 to 1 | 250+ brands, 100K+ creators in 7 months, setup time down 40% |
-| [**AWII Chatbot**](https://vandangohil.com/awii-chatbot) `2024 → 2025` | Redesigned ASU's water AI companion for 10K+ Arizonans | engagement up 33%, feature discoverability up 60% |
-| [**ClanX**](https://vandangohil.com/clanx) `2022` | Rebuilt a tech-hiring brand into a fast, credible site | helped fill 150+ roles and close $4M+ in salaries |
+| [**Sapling CRM**](https://vandangohil.com/sapling-crm) | AI-native nonprofit CRM, designed and built end to end | 11+ surfaces shipped solo, design-to-code time down 70% |
+| [**HypdVision**](https://vandangohil.com/hypdvision) | B2B influencer-marketing platform, founding designer, 0 to 1 | 250+ brands, 100K+ creators in 7 months, setup time down 40% |
+| [**AWII Chatbot**](https://vandangohil.com/awii-chatbot) | Redesigned ASU's water AI companion for 10K+ Arizonans | engagement up 33%, feature discoverability up 60% |
+| [**ClanX**](https://vandangohil.com/clanx) | Rebuilt a tech-hiring brand into a fast, credible site | helped fill 150+ roles and close $4M+ in salaries |
 
 Full case studies at **[vandangohil.com](https://vandangohil.com)**.
 
@@ -59,9 +59,10 @@ Full case studies at **[vandangohil.com](https://vandangohil.com)**.
 
 ## the toolbox
 
-**Design** &nbsp;Figma · Motion · design systems · prototyping  
-**Build** &nbsp;React · Next.js · TypeScript · Tailwind · Supabase  
-**Workflow** &nbsp;Claude Code · Figma MCP · Vercel
+**Design & prototyping** &nbsp;Figma · Framer · ProtoPie · Webflow · v0 · Photoshop · After Effects  
+**Development** &nbsp;React · Next.js · TypeScript · JavaScript · HTML/CSS · Supabase · REST APIs · Git  
+**AI workflows** &nbsp;Claude Code · Figma MCP · Design.md pattern · Vercel  
+**Research & craft** &nbsp;Design systems · Information architecture · Interaction design · Data visualization · Accessibility · User research · Usability & A/B testing · Rapid prototyping
 
 <br/>
 
