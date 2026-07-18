@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="100%" font-family="'Inter', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Impact by the numbers">
+  <rect x="0.75" y="0.75" width="1198.5" height="148.5" rx="24" fill="#0D0E10" stroke="#23252A" stroke-width="1.5"/>
+  <line x1="300" y1="36" x2="300" y2="114" stroke="#23252A" stroke-width="1.5"/>
+  <line x1="600" y1="36" x2="600" y2="114" stroke="#23252A" stroke-width="1.5"/>
+  <line x1="900" y1="36" x2="900" y2="114" stroke="#23252A" stroke-width="1.5"/>
+  <text x="150" y="80" text-anchor="middle" font-size="40" font-weight="600" letter-spacing="-1" fill="#F3F4F4">70%</text>
+  <text x="150" y="107" text-anchor="middle" font-size="15" fill="#9A9CA0">faster design-to-code</text>
+  <text x="450" y="80" text-anchor="middle" font-size="40" font-weight="600" letter-spacing="-1" fill="#F3F4F4">11+</text>
+  <text x="450" y="107" text-anchor="middle" font-size="15" fill="#9A9CA0">surfaces shipped solo</text>
+  <text x="750" y="80" text-anchor="middle" font-size="40" font-weight="600" letter-spacing="-1" fill="#F3F4F4">250+</text>
+  <text x="750" y="107" text-anchor="middle" font-size="15" fill="#9A9CA0">brands onboarded</text>
+  <text x="1050" y="80" text-anchor="middle" font-size="40" font-weight="600" letter-spacing="-1" fill="#F3F4F4">100K+</text>
+  <text x="1050" y="107" text-anchor="middle" font-size="15" fill="#9A9CA0">creators reached</text>
+</svg>
